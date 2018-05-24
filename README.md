@@ -4,4 +4,3 @@
 ### ToDo:
 
 * Code für das Einlesen der Abstandssensoren schreiben
-* Papa was here
